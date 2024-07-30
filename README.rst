@@ -5,7 +5,7 @@
 Ichnaea
 =======
 
-Ichnaea has been sunset as a part of Mozilla Location Services. It's source code 
+Ichnaea has been sunset as a part of Mozilla Location Services. Its source code 
 will remain available under the archived repo.
 
 
