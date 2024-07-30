@@ -5,15 +5,11 @@
 Ichnaea
 =======
 
-``Ichnaea`` is an application that provides geolocation coordinates
-from other sources of data (Bluetooth, cell or WiFi networks, GeoIP, etc.).
+Ichnaea has been sunset as a part of Mozilla Location Services. It's source code 
+will remain available under the archived repo.
 
-For more information look at
-`the full docs <https://ichnaea.readthedocs.io/>`_.
 
-Please use `our github tracker <https://github.com/mozilla/ichnaea/issues>`_
-to report issues.
-
+Thank you to everybody who contributed time, code, data, and effort to this project.
 
 License
 =======
